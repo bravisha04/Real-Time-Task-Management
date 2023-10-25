@@ -1,0 +1,15 @@
+**Database Name: realttm**
+
+
+**Employee Login Details** 
+
+Username: thomas
+Password: 789654
+
+Username: kiki
+Password: 369258
+
+**Admin Login Details**
+
+Username: admin
+Password: 123456

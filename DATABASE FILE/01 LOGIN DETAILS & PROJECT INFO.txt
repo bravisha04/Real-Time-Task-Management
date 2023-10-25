@@ -1,0 +1,17 @@
+**Database Name: realttm**
+
+**Employee Login Details** 
+
+Username: khushi
+Password: 369258
+
+Username: thomas
+Password: 789654
+
+
+**Admin Login Details**
+
+Username: admin
+Password: 123456
+
+**When new user is added, temporary password is also assigned.**
